@@ -10,6 +10,9 @@
 
 `docker run -d `
 
+
+书籍推荐：【带着农场混异界】 1万多章，很难一周内刷完
+
 ## 参考
 
 - https://github.com/DoooReyn/WxRead-WebAutoReader
